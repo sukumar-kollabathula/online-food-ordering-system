@@ -1,0 +1,7 @@
+Flask==2.2.5
+flask-cors==3.0.10
+pymongo==4.3.3
+
+python-dotenv==1.0.0
+Werkzeug==2.3.8
+cassandra-driver==3.30.1
